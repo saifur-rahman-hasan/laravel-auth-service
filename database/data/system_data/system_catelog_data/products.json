@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "id": "crop_green_banana",
+            "name": "Green Banana",
+            "nameLocale": {
+                "en": "Green Banana"
+            },
+            "category": {
+                "id": "crop",
+                "name": "Crop"
+            },
+            "businessCategory": {
+                "id": "crop_buying_and_selling_service",
+                "name": "Crop Buying and Selling Service"
+            },
+            "config": {
+                "isPublic": true,
+                "isDisabled": false,
+                "isAssignable": true,
+                "canManageStock": true
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "id": "crop_red_chilli",
+            "name": "Red Chilli",
+            "nameLocale": {
+                "en": "Red Chilli"
+            },
+            "category": {
+                "id": "crop",
+                "name": "Crop"
+            },
+            "businessCategory": {
+                "id": "crop_buying_and_selling_service",
+                "name": "Crop Buying and Selling Service"
+            },
+            "config": {
+                "isPublic": true,
+                "isDisabled": false,
+                "isAssignable": true,
+                "canManageStock": true
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "id": "seedling",
+            "name": "Seedling",
+            "nameLocale": {
+                "en": "Seedling"
+            },
+            "category": {
+                "id": "crop",
+                "name": "Crop"
+            },
+            "businessCategory": {
+                "id": "crop_buying_and_selling_service",
+                "name": "Crop Buying and Selling Service"
+            },
+            "config": {
+                "isPublic": true,
+                "isDisabled": false,
+                "isAssignable": true,
+                "stock": {
+                    "enabled": true,
+                    "sku_prefix": null,
+                    "sku_id": null,
+                    "base_unit_type": null,
+                    "primary_unit_type": null,
+                    "attributes": [
+                        {"id":  "attribute_one", "name":  "attribute_name"}
+                    ]
+                }
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        }
+    ]
+}

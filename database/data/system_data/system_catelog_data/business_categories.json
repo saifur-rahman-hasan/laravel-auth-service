@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": "crop_buying_and_selling_service",
+            "name": "Crop Buying and Selling Service",
+            "nameLocale": {
+                "en": "Crop Buying and Selling Service"
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "id": "agro_input_service",
+            "name": "Agro Input Service",
+            "nameLocale": {
+                "en": "Agro Input Service"
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        }
+    ]
+}

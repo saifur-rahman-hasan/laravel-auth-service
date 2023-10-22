@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "id": "crop",
+            "name": "Crop",
+            "nameLocale": {
+                "en": "Crop"
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "id": "seed",
+            "name": "Seed",
+            "nameLocale": {
+                "en": "Seed"
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        },
+        {
+            "id": "seedling",
+            "name": "Seedling",
+            "nameLocale": {
+                "en": "Seedling"
+            },
+            "createdAt": "",
+            "updatedAt": ""
+        }
+    ]
+}

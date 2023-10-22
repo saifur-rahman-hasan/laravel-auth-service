@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": "attribute_001",
+            "name": "Attribute One"
+        },
+        {
+            "id": "attribute_002",
+            "name": "Attribute Two",
+            "price": "300",
+            "currency": "BDT"
+        },
+        {
+            "id": "attribute_003",
+            "name": "Attribute Three"
+        }
+    ]
+}

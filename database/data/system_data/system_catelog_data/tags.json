@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": "agro",
+            "name": "Agro"
+        },
+        {
+            "id": "machinery",
+            "name": "Machinery"
+        },
+        {
+            "id": "other",
+            "name": "Other"
+        }
+    ]
+}
